@@ -22,11 +22,6 @@ Para usarlo localmente:
 Descarga el archivo index.html de este repositorio.
 Ábrelo con doble clic (se abre en tu navegador: Chrome, Edge, Firefox, etc.).
 
-Para publicarlo como sitio web (GitHub Pages):
-
-Ve a la pestaña Settings de este repositorio → Pages.
-En "Source" elige la rama main y la carpeta / (root).
-Guarda. En uno o dos minutos tu sitio estará disponible en https://tu-usuario.github.io/nombre-del-repo/.
 ¿Cómo lo uso?
 Al abrir el sistema aparece una pantalla de login: elige tu usuario e ingresa tu PIN.
 PIN de prueba para probar cada rol: Administrador 1234 · Supervisor 2345 · Cajero 1111 · Almacenero 2222 · Contador 3333.
@@ -39,7 +34,7 @@ Usuarios (solo Administrador): agrega o desactiva usuarios y define su rol.
 Los datos quedan guardados en el navegador donde lo uses, así que si cierras la pestaña y vuelves a entrar, todo sigue ahí.
 ¿Quién lo hizo?
 
-Jeampier Uscata Fernandez, estudiante de Ingeniería de Sistemas, con la asistencia de Claude (Anthropic) para el diseño y desarrollo del sistema.
+Jeampier Uscata Fernandez, estudiante de Ingeniería de Sistemas.
 
 ¿En qué estado está?
 
